@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -66,3 +67,6 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+=======
+@tailwind base;@tailwind components;@tailwind utilities;:root { color-scheme: dark; }body { @apply bg-gray-950 text-white antialiased; }::-webkit-scrollbar { width: 8px; }::-webkit-scrollbar-track { @apply bg-gray-900; }::-webkit-scrollbar-thumb { @apply bg-gray-700 rounded-full hover:bg-gray-600; } 
+>>>>>>> de0756211a325d261f0859a73467c24f1d837bea
